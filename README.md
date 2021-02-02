@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=95afc0&height=300&section=header&text=KM's GitHub!&fontSize=60&fontColor=535c68" />
 
-### ✨ Welcome To Kyung Min's GitHub
+<h3 align ="center">🔗 Teah Stack</h3>
 
 <!--
 **rlarudals/rlarudals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
