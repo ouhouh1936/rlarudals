@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=babo&fontSize=90" />
 
-### Hi there 👋
+### Welcome To Kyung Min's GitHub ✨
 
 <!--
 **rlarudals/rlarudals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
