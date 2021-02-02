@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=정예림 &fontSize=90&fontColor=0b0b0b" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=정예림 나쁜&fontSize=90&fontColor=0b0b0b" />
 
 ### ✨ Welcome To Kyung Min's GitHub
 
