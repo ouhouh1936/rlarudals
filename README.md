@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=babo&fontSize=90" />
-
 ### Welcome To Kyung Min's GitHub ✨
 
 <!--
