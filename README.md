@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&&color=_95afc0`&height=300&section=header&text=KyungMinKim&fontSize=90&fontColor=0b0b0b" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=_95afc0`&height=300&section=header&text=KyungMinKim&fontSize=90&fontColor=0b0b0b" />
 
 ### ✨ Welcome To Kyung Min's GitHub
 
