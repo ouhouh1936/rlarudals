@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=95afc0&height=300&section=header&text=KM's GitHub!&fontSize=60&fontColor=535c68" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=95afc0&height=300&section=header&text=km's page!&fontSize=60&fontColor=535c68" />
 
 <h3 align ="center">🔗 Teah Stack</h3>
 
